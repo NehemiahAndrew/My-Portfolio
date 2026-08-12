@@ -1,52 +1,93 @@
+# Nehemiah Andrew — Software Engineer & Cybersecurity Builder
+
 <p align="center">
-   <img alt="is-a.dev Banner" src="https://raw.githubusercontent.com/is-a-dev/register/main/media/banner.png">
+  <strong>Building useful software across mobile, web, AI, and cybersecurity.</strong>
 </p>
 
 <p align="center">
-   <img alt="Domains" src="https://img.shields.io/github/directory-file-count/is-a-dev/register/domains?color=5c46eb&label=domains&style=for-the-badge">
-   <img alt="Open Pull Requests" src="https://img.shields.io/github/issues-raw/is-a-dev/register?color=5c46eb&label=issues&style=for-the-badge">
-   <img alt="Open Issues" src="https://img.shields.io/github/issues-pr-raw/is-a-dev/register?color=5c46eb&label=pull%20requests&style=for-the-badge">
-   <br>
+  <a href="https://github.com/NehemiahAndrew">GitHub</a> ·
+  <a href="https://github.com/NehemiahAndrew/FIT4FORCE">FIT4FORCE</a> ·
+  <a href="https://github.com/NehemiahAndrew/Falcon-RDB">Falcon-RDB</a> ·
+  <a href="https://github.com/NehemiahAndrew/StudyAssist">StudyAssist</a> ·
+  <a href="https://github.com/NehemiahAndrew/routelog-pro">RouteLog Pro</a>
 </p>
-
-<h1 align="center">is-a.dev</h1>
-
-<p align="center"><strong>is-a.dev</strong> is a service that allows developers to get a sweet-looking <code>.is-a.dev</code> subdomain for their personal websites.</p>
-
-## Announcements & Status Updates
-Please join our [Discord server](https://discord.gg/is-a-dev-830872854677422150) for announcements, updates & upgrades, and downtime notifications regarding the service.
-Not all of these will be posted on GitHub[^1], however they will always be posted in our Discord server.
-
-[^1]: We usually only post announcements on GitHub in the case of a serious incident. In that case, you'll likely see it at the top of this README file.
-
-<a href="https://discord.gg/is-a-dev-830872854677422150"><img alt="Discord Server" src="https://invidget.api.hrsn.dev/is-a-dev-830872854677422150"></a>
-
-# Register
-> If you want a visual guide, check out [this blog post](https://wdh.gg/tX3ghge).
-
-- [Fork](https://github.com/is-a-dev/register/fork) this repository.
-- [Read the documentation](https://docs.is-a.dev).
-   - If you are applying for NS records please read [this](#ns-records).
-- Your pull request will be reviewed and merged. *Keep an eye on it in case changes are needed!*
-- After the pull request is merged, your DNS records should be published with-in a few minutes.
-- Enjoy your new `.is-a.dev` subdomain! Please consider leaving us a star ⭐️ to help support us!
-
-### NS Records
-When applying for NS records, please be aware we already support a [wide range of DNS records](https://docs.is-a.dev/faq/#which-dns-record-types-are-supported), so you likely do not need them. 
-
-In your PR, please explain why you need NS records, including examples, to help mitigate potential abuse. Refer to the [FAQ](https://docs.is-a.dev/faq/#who-can-use-ns-records) for guidelines on allowed usage.
-
-***Pull requests adding NS records without sufficient reasoning will be closed.***
-
-> Also see: [Why are NS records restricted?](https://docs.is-a.dev/faq/#why-are-ns-records-restricted)
-
-## Report Abuse
-If you find any subdomains being used for abusive purposes, please report them by [creating an issue](https://github.com/is-a-dev/register/issues/new?assignees=&labels=report-abuse&projects=&template=report-abuse.md&title=Report+abuse) with the relevant evidence.
 
 ---
 
-We are proud to announce that we are supported by Cloudflare's [Project Alexandria](https://www.cloudflare.com/lp/project-alexandria) sponsorship program. We would not be able to operate without their help! 💖
+## 👋 About Me
 
-<a href="https://www.cloudflare.com">
-   <img alt="Cloudflare Logo" src="https://raw.githubusercontent.com/is-a-dev/register/main/media/cloudflare.png" height="96">
-</a>
+I'm **Nehemiah Andrew**, a software developer and cybersecurity practitioner from Nigeria. I enjoy taking an idea from **concept → architecture → implementation → deployment** and turning it into something people can actually use.
+
+My work sits at the intersection of:
+
+- 📱 **Flutter & mobile engineering**
+- 🌐 **Full-stack web development**
+- 🤖 **AI-powered applications**
+- 🛡️ **Cybersecurity & security tooling**
+- ☁️ **Cloud-backed applications and APIs**
+- 🧩 **Product engineering and automation**
+
+I care about practical engineering: clean architecture, maintainability, security, good UX, and software that solves a real problem.
+
+## 🚀 Selected Work
+
+### FIT4FORCE
+A Flutter application for Nigerian military and paramilitary recruitment preparation, combining study materials, fitness training, progress tracking, community features, subscriptions, and AI-assisted learning.
+
+**Stack:** Flutter · Dart · Supabase · AI · Android
+
+→ [View FIT4FORCE](https://github.com/NehemiahAndrew/FIT4FORCE)
+
+### Falcon-RDB
+A security-focused project exploring practical cybersecurity and defensive tooling.
+
+**Focus:** Cybersecurity · Web security · Security engineering
+
+→ [View Falcon-RDB](https://github.com/NehemiahAndrew/Falcon-RDB)
+
+### StudyAssist
+A Flutter-based study application with a dedicated backend and structured learning experience.
+
+**Stack:** Flutter · Dart · Backend APIs
+
+→ [View StudyAssist](https://github.com/NehemiahAndrew/StudyAssist)
+
+### RouteLog Pro
+A full-stack trucking route planner and FMCSA Hours-of-Service compliance application with route calculation, interactive maps, compliance logic, and ELD-style daily logs.
+
+**Stack:** Django · Django REST Framework · React · Vite · Tailwind · Leaflet · OSRM
+
+→ [View RouteLog Pro](https://github.com/NehemiahAndrew/routelog-pro)
+
+## 🧰 Technology
+
+| Area | Technologies |
+|---|---|
+| **Mobile** | Flutter, Dart, Android |
+| **Frontend** | React, JavaScript, TypeScript, HTML, CSS, Tailwind |
+| **Backend** | Python, Django, PHP, REST APIs |
+| **Data & Cloud** | Supabase, Firebase, PostgreSQL, SQLite |
+| **AI** | AI API integrations, LLM-powered application features |
+| **Security** | Cybersecurity, secure application design, security tooling |
+| **Tools** | Git, GitHub, VS Code, Android Studio |
+
+## 🧠 Engineering Principles
+
+- **Build for users, not just demos.**
+- **Keep security in the design, not as an afterthought.**
+- **Prefer clear architecture over unnecessary complexity.**
+- **Document decisions so other engineers can move faster.**
+- **Test important behavior and make failures observable.**
+- **Keep learning and improve the implementation with every iteration.**
+
+## 📌 What I'm Building Toward
+
+I'm focused on becoming a stronger **software engineer with deep cybersecurity and AI capabilities**, while continuing to build products that demonstrate real-world engineering ability.
+
+I'm especially interested in opportunities involving **software engineering, mobile development, full-stack systems, AI applications, cloud platforms, and cybersecurity**.
+
+---
+
+<p align="center">
+  <em>Build. Secure. Learn. Ship.</em>
+</p>
